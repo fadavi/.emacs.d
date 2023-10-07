@@ -1,0 +1,10 @@
+# ignore everything:
+*
+
+# ok don't ignore yourself :D
+!.gitignore
+
+# except...
+!init.el
+!LICENSE
+!READMD.md
